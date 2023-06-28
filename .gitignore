@@ -1,4 +1,4 @@
 /meltpool_env/
 *.npy
-!silhouettes.npy
+!silhouettes*.npy
 /src/.idea/
