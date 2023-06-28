@@ -2,3 +2,5 @@
 *.npy
 !silhouettes*.npy
 /src/.idea/
+/src/*.pkl
+
