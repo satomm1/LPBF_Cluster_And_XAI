@@ -3,4 +3,4 @@
 !silhouettes*.npy
 /src/.idea/
 /src/*.pkl
-
+/src/process_parameters/by_layer
