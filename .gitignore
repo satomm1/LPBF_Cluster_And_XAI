@@ -4,3 +4,4 @@
 /src/.idea/
 /src/*.pkl
 /src/process_parameters/by_layer
+/src/neural_network_data/*pp*
