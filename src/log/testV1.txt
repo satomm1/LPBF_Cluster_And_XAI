@@ -1,2 +1,11 @@
 Begin NN Training:
 
+0/0
+
+trainLoss: 2.527281740238412 Acc: tensor(0.2548, device='cuda:0', dtype=torch.float64)
+0/0
+
+devLoss: 2.475566338979791 Acc: tensor(0.2615, device='cuda:0', dtype=torch.float64)
+Training Completed in 2808.6654801368713seconds
+
+testLoss: 2.468326613001761 Acc: tensor(0.2638, device='cuda:0', dtype=torch.float64)

@@ -1,0 +1,65 @@
+Begin NN Training:
+
+0/9
+
+trainLoss: 2.5119965481142246 Acc: tensor(0.2572, device='cuda:0', dtype=torch.float64)
+0/9
+
+devLoss: 2.6682057554515684 Acc: tensor(0.2102, device='cuda:0', dtype=torch.float64)
+1/9
+
+trainLoss: 2.5713005619660523 Acc: tensor(0.2389, device='cuda:0', dtype=torch.float64)
+1/9
+
+devLoss: 2.7258251277424437 Acc: tensor(0.1682, device='cuda:0', dtype=torch.float64)
+2/9
+
+trainLoss: 2.766325210386154 Acc: tensor(0.1721, device='cuda:0', dtype=torch.float64)
+2/9
+
+devLoss: 2.668642345177783 Acc: tensor(0.1752, device='cuda:0', dtype=torch.float64)
+3/9
+
+trainLoss: 2.751418717018954 Acc: tensor(0.1756, device='cuda:0', dtype=torch.float64)
+3/9
+
+devLoss: 3.2815256760356566 Acc: tensor(0.1145, device='cuda:0', dtype=torch.float64)
+4/9
+
+trainLoss: 2.600618030213891 Acc: tensor(0.2240, device='cuda:0', dtype=torch.float64)
+4/9
+
+devLoss: 2.481532468015488 Acc: tensor(0.2400, device='cuda:0', dtype=torch.float64)
+5/9
+
+trainLoss: 2.531611659074669 Acc: tensor(0.2376, device='cuda:0', dtype=torch.float64)
+5/9
+
+devLoss: 2.4194431058697687 Acc: tensor(0.2630, device='cuda:0', dtype=torch.float64)
+6/9
+
+trainLoss: 2.5339138396690957 Acc: tensor(0.2393, device='cuda:0', dtype=torch.float64)
+6/9
+
+devLoss: 2.4630336126438035 Acc: tensor(0.2471, device='cuda:0', dtype=torch.float64)
+7/9
+
+trainLoss: 2.511521917522262 Acc: tensor(0.2440, device='cuda:0', dtype=torch.float64)
+7/9
+
+devLoss: 2.3896933742732505 Acc: tensor(0.2868, device='cuda:0', dtype=torch.float64)
+8/9
+
+trainLoss: 2.488430512132335 Acc: tensor(0.2531, device='cuda:0', dtype=torch.float64)
+8/9
+
+devLoss: 2.4211550797321753 Acc: tensor(0.2620, device='cuda:0', dtype=torch.float64)
+9/9
+
+trainLoss: 2.579709371993435 Acc: tensor(0.2307, device='cuda:0', dtype=torch.float64)
+9/9
+
+devLoss: 2.615187445582084 Acc: tensor(0.2167, device='cuda:0', dtype=torch.float64)
+Training Completed in 27523.658742427826 seconds
+
+testLoss: 2.3865282745704675 Acc: tensor(0.2878, device='cuda:0', dtype=torch.float64)
