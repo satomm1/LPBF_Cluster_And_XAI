@@ -1,0 +1,4 @@
+Resume NN Training:
+
+Learning rate: 0.001
+
