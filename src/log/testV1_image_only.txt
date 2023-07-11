@@ -1,4 +1,127 @@
-Resume NN Training:
+Begin NN Training:
 
 Learning rate: 0.001
 
+0/19
+
+trainLoss: 0.4862890401839065 Acc: tensor(0.8453, device='cuda:0', dtype=torch.float64)
+0/19
+
+devLoss: 0.985160124572407 Acc: tensor(0.6942, device='cuda:0', dtype=torch.float64)
+1/19
+
+trainLoss: 0.31610991587389703 Acc: tensor(0.8969, device='cuda:0', dtype=torch.float64)
+1/19
+
+devLoss: 3.7658370818712106 Acc: tensor(0.2549, device='cuda:0', dtype=torch.float64)
+2/19
+
+trainLoss: 0.26719859064120016 Acc: tensor(0.9110, device='cuda:0', dtype=torch.float64)
+2/19
+
+devLoss: 2.6491701458123584 Acc: tensor(0.4056, device='cuda:0', dtype=torch.float64)
+3/19
+
+trainLoss: 0.24215529477131667 Acc: tensor(0.9191, device='cuda:0', dtype=torch.float64)
+3/19
+
+devLoss: 1.6034382659540727 Acc: tensor(0.5409, device='cuda:0', dtype=torch.float64)
+4/19
+
+trainLoss: 0.2245127085077231 Acc: tensor(0.9241, device='cuda:0', dtype=torch.float64)
+4/19
+
+devLoss: 0.12975188388236147 Acc: tensor(0.9513, device='cuda:0', dtype=torch.float64)
+5/19
+
+trainLoss: 0.21043310969766077 Acc: tensor(0.9286, device='cuda:0', dtype=torch.float64)
+5/19
+
+devLoss: 0.23797307729268893 Acc: tensor(0.9264, device='cuda:0', dtype=torch.float64)
+6/19
+
+trainLoss: 0.2007643882244639 Acc: tensor(0.9315, device='cuda:0', dtype=torch.float64)
+6/19
+
+devLoss: 0.48215509402069723 Acc: tensor(0.8473, device='cuda:0', dtype=torch.float64)
+7/19
+
+trainLoss: 0.19312556827761312 Acc: tensor(0.9337, device='cuda:0', dtype=torch.float64)
+7/19
+
+devLoss: 0.12628368123215272 Acc: tensor(0.9513, device='cuda:0', dtype=torch.float64)
+8/19
+
+trainLoss: 0.18614351289643466 Acc: tensor(0.9358, device='cuda:0', dtype=torch.float64)
+8/19
+
+devLoss: 0.690465175429894 Acc: tensor(0.7891, device='cuda:0', dtype=torch.float64)
+9/19
+
+trainLoss: 0.18148635690178197 Acc: tensor(0.9372, device='cuda:0', dtype=torch.float64)
+9/19
+
+devLoss: 0.20948472558949574 Acc: tensor(0.9229, device='cuda:0', dtype=torch.float64)
+10/19
+
+trainLoss: 0.1763151049519642 Acc: tensor(0.9390, device='cuda:0', dtype=torch.float64)
+10/19
+
+devLoss: 1.2480677151079558 Acc: tensor(0.6296, device='cuda:0', dtype=torch.float64)
+11/19
+
+trainLoss: 0.171541701647886 Acc: tensor(0.9401, device='cuda:0', dtype=torch.float64)
+11/19
+
+devLoss: 2.201184162793488 Acc: tensor(0.4632, device='cuda:0', dtype=torch.float64)
+12/19
+
+trainLoss: 0.16864784056217566 Acc: tensor(0.9413, device='cuda:0', dtype=torch.float64)
+12/19
+
+devLoss: 0.34552596132695673 Acc: tensor(0.8901, device='cuda:0', dtype=torch.float64)
+13/19
+
+trainLoss: 0.16472329746501543 Acc: tensor(0.9424, device='cuda:0', dtype=torch.float64)
+13/19
+
+devLoss: 0.15345584045028376 Acc: tensor(0.9449, device='cuda:0', dtype=torch.float64)
+14/19
+
+trainLoss: 0.16173407766011874 Acc: tensor(0.9435, device='cuda:0', dtype=torch.float64)
+14/19
+
+devLoss: 0.16110791468706803 Acc: tensor(0.9452, device='cuda:0', dtype=torch.float64)
+15/19
+
+trainLoss: 0.15881053829004782 Acc: tensor(0.9443, device='cuda:0', dtype=torch.float64)
+15/19
+
+devLoss: 0.21428618757468096 Acc: tensor(0.9311, device='cuda:0', dtype=torch.float64)
+16/19
+
+trainLoss: 0.1563581596066113 Acc: tensor(0.9449, device='cuda:0', dtype=torch.float64)
+16/19
+
+devLoss: 1.6679123895453558 Acc: tensor(0.5653, device='cuda:0', dtype=torch.float64)
+17/19
+
+trainLoss: 0.15398482086964943 Acc: tensor(0.9457, device='cuda:0', dtype=torch.float64)
+17/19
+
+devLoss: 0.14146929651655207 Acc: tensor(0.9483, device='cuda:0', dtype=torch.float64)
+18/19
+
+trainLoss: 0.15276388624147907 Acc: tensor(0.9461, device='cuda:0', dtype=torch.float64)
+18/19
+
+devLoss: 0.16508990845035995 Acc: tensor(0.9431, device='cuda:0', dtype=torch.float64)
+19/19
+
+trainLoss: 0.15073918470578274 Acc: tensor(0.9466, device='cuda:0', dtype=torch.float64)
+19/19
+
+devLoss: 0.11800213354671413 Acc: tensor(0.9538, device='cuda:0', dtype=torch.float64)
+Training Completed in 56004.956191539764 seconds
+
+testLoss: 0.11750196341094506 Acc: tensor(0.9546, device='cuda:0', dtype=torch.float64)
