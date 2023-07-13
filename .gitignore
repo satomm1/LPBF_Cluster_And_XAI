@@ -5,5 +5,3 @@
 /src/*.pkl
 /src/process_parameters/by_layer
 /src/neural_network_data/*pp*
-/src/K-Means Example Plotting.ipynb
-/src/.ipynb_checkpoints/K-Means Example Plotting-checkpoint.ipynb
