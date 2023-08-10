@@ -1,0 +1,417 @@
+Begin NN Training:
+
+Learning rate: 0.001
+
+Epoch 0/19
+*************************************************
+trainLoss: 1.0001693654632569 Acc: tensor(0.7119, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 380.295227766037 seconds
+
+devLoss: 0.7641461848989449 Acc: tensor(0.7670, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 525.38192486763 seconds
+
+*************************************************
+
+Epoch 1/19
+*************************************************
+trainLoss: 0.5652474441655477 Acc: tensor(0.8312, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 380.7939965724945 seconds
+
+devLoss: 1.9216909096428598 Acc: tensor(0.4502, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 523.9692869186401 seconds
+
+*************************************************
+
+Epoch 2/19
+*************************************************
+trainLoss: 0.4809621671772003 Acc: tensor(0.8560, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 379.378613948822 seconds
+
+devLoss: 2.2676843624532426 Acc: tensor(0.4131, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 522.1244058609009 seconds
+
+*************************************************
+
+Epoch 3/19
+*************************************************
+trainLoss: 0.429578388004303 Acc: tensor(0.8696, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 379.85348200798035 seconds
+
+devLoss: 0.5715476327456329 Acc: tensor(0.8090, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 523.2629551887512 seconds
+
+*************************************************
+
+Epoch 4/19
+*************************************************
+trainLoss: 0.3870503501065572 Acc: tensor(0.8820, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 378.7471354007721 seconds
+
+devLoss: 0.7452382042030729 Acc: tensor(0.7760, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 522.1827163696289 seconds
+
+*************************************************
+
+Epoch 5/19
+*************************************************
+trainLoss: 0.36162650286674497 Acc: tensor(0.8885, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 382.59571170806885 seconds
+
+devLoss: 2.852910454710066 Acc: tensor(0.3167, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 526.3243911266327 seconds
+
+*************************************************
+
+Epoch 6/19
+*************************************************
+trainLoss: 0.33783795267422995 Acc: tensor(0.8947, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 378.7377784252167 seconds
+
+devLoss: 1.0181922142139348 Acc: tensor(0.7279, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 521.2403433322906 seconds
+
+*************************************************
+
+Epoch 7/19
+*************************************************
+trainLoss: 0.3196722892252604 Acc: tensor(0.9000, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 378.08771777153015 seconds
+
+devLoss: 0.30526141403106066 Acc: tensor(0.9042, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 521.3564009666443 seconds
+
+*************************************************
+
+Epoch 8/19
+*************************************************
+trainLoss: 0.30488597620010377 Acc: tensor(0.9042, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 380.88723492622375 seconds
+
+devLoss: 0.33948889286061223 Acc: tensor(0.8953, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 524.4048728942871 seconds
+
+*************************************************
+
+Epoch 9/19
+*************************************************
+trainLoss: 0.29299224700927734 Acc: tensor(0.9077, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 378.36146330833435 seconds
+
+devLoss: 0.544648726637037 Acc: tensor(0.8165, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 521.1792702674866 seconds
+
+*************************************************
+
+Epoch 10/19
+*************************************************
+trainLoss: 0.2796351535892487 Acc: tensor(0.9111, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 376.24510407447815 seconds
+
+devLoss: 0.32730027702392667 Acc: tensor(0.9023, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 521.1661968231201 seconds
+
+*************************************************
+
+Epoch 11/19
+*************************************************
+trainLoss: 0.27248874205589296 Acc: tensor(0.9138, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 378.87628531455994 seconds
+
+devLoss: 1.0718248037944484 Acc: tensor(0.6547, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 523.5461246967316 seconds
+
+*************************************************
+
+Epoch 12/19
+*************************************************
+trainLoss: 0.2611130423132578 Acc: tensor(0.9161, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 378.2118580341339 seconds
+
+devLoss: 0.47611682903394137 Acc: tensor(0.8612, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 520.871194601059 seconds
+
+*************************************************
+
+Epoch 13/19
+*************************************************
+trainLoss: 0.2535691289313634 Acc: tensor(0.9177, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 379.3627471923828 seconds
+
+devLoss: 0.31200977518183554 Acc: tensor(0.9008, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 522.9428725242615 seconds
+
+*************************************************
+
+Epoch 14/19
+*************************************************
+trainLoss: 0.24783560925165812 Acc: tensor(0.9198, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 378.8997986316681 seconds
+
+devLoss: 0.9370436723859927 Acc: tensor(0.7103, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 521.9317519664764 seconds
+
+*************************************************
+
+Epoch 15/19
+*************************************************
+trainLoss: 0.24177923984527588 Acc: tensor(0.9220, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 379.978066444397 seconds
+
+devLoss: 0.16755852453757059 Acc: tensor(0.9424, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 522.4684686660767 seconds
+
+*************************************************
+
+Epoch 16/19
+*************************************************
+trainLoss: 0.23547866340001425 Acc: tensor(0.9238, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 378.2781789302826 seconds
+
+devLoss: 2.029916382521951 Acc: tensor(0.5099, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 521.0198707580566 seconds
+
+*************************************************
+
+Epoch 17/19
+*************************************************
+trainLoss: 0.23368607218106588 Acc: tensor(0.9237, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 377.75512504577637 seconds
+
+devLoss: 1.8772500207506249 Acc: tensor(0.5328, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 520.4555864334106 seconds
+
+*************************************************
+
+Epoch 18/19
+*************************************************
+trainLoss: 0.22720309620221457 Acc: tensor(0.9258, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 376.62229681015015 seconds
+
+devLoss: 0.17076560188847348 Acc: tensor(0.9405, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 521.1605129241943 seconds
+
+*************************************************
+
+Epoch 19/19
+*************************************************
+trainLoss: 0.2216355281639099 Acc: tensor(0.9279, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 379.18170976638794 seconds
+
+devLoss: 0.5618624058634439 Acc: tensor(0.8213, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 521.6183576583862 seconds
+
+*************************************************
+
+Training Completed in 10448.671502113342 seconds
+
+testLoss: 0.1707307597833861 Acc: tensor(0.9420, device='cuda:0', dtype=torch.float64)
+
+*************************************************
+Resume NN Training:
+
+Learning rate: 0.001
+
+Epoch 0/19
+*************************************************
+trainLoss: 0.244345574687322 Acc: tensor(0.9210, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 374.95562720298767 seconds
+
+devLoss: 0.19294906240225676 Acc: tensor(0.9356, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 523.5801844596863 seconds
+
+*************************************************
+
+Epoch 1/19
+*************************************************
+trainLoss: 0.23551473432858785 Acc: tensor(0.9232, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 449.670373916626 seconds
+
+devLoss: 2.091202362458388 Acc: tensor(0.4973, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 592.9516150951385 seconds
+
+*************************************************
+
+Epoch 2/19
+*************************************************
+trainLoss: 0.2294271900097529 Acc: tensor(0.9251, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 374.2951056957245 seconds
+
+devLoss: 0.287001458468747 Acc: tensor(0.9068, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 516.9070115089417 seconds
+
+*************************************************
+
+Epoch 3/19
+*************************************************
+trainLoss: 0.2245922099192937 Acc: tensor(0.9265, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 372.294082403183 seconds
+
+devLoss: 0.18133938493603602 Acc: tensor(0.9358, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 513.7991952896118 seconds
+
+*************************************************
+
+Epoch 4/19
+*************************************************
+trainLoss: 0.2239824600124359 Acc: tensor(0.9269, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 371.45811009407043 seconds
+
+devLoss: 0.3040862269983991 Acc: tensor(0.8965, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 512.9017629623413 seconds
+
+*************************************************
+
+Epoch 5/19
+*************************************************
+trainLoss: 0.21625607875506084 Acc: tensor(0.9286, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 372.32377576828003 seconds
+
+devLoss: 0.27797308172579055 Acc: tensor(0.9124, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 513.7747421264648 seconds
+
+*************************************************
+
+Epoch 6/19
+*************************************************
+trainLoss: 0.21285332317670186 Acc: tensor(0.9294, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 371.4869451522827 seconds
+
+devLoss: 0.3872179903423278 Acc: tensor(0.8782, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 515.2345581054688 seconds
+
+*************************************************
+
+Epoch 7/19
+*************************************************
+trainLoss: 0.20747017439365387 Acc: tensor(0.9312, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 372.5351984500885 seconds
+
+devLoss: 0.6647978401844653 Acc: tensor(0.8060, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 513.9163661003113 seconds
+
+*************************************************
+
+Epoch 8/19
+*************************************************
+trainLoss: 0.20777409852027892 Acc: tensor(0.9314, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 372.86287665367126 seconds
+
+devLoss: 0.16349503340349766 Acc: tensor(0.9422, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 513.0048928260803 seconds
+
+*************************************************
+
+Epoch 9/19
+*************************************************
+trainLoss: 0.201063099304835 Acc: tensor(0.9334, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 372.7991237640381 seconds
+
+devLoss: 0.17370786567983917 Acc: tensor(0.9407, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 513.6858973503113 seconds
+
+*************************************************
+
+Epoch 10/19
+*************************************************
+trainLoss: 0.19800519745826722 Acc: tensor(0.9351, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 372.0286817550659 seconds
+
+devLoss: 0.3793904304003068 Acc: tensor(0.8819, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 514.8261659145355 seconds
+
+*************************************************
+
+Epoch 11/19
+*************************************************
+trainLoss: 0.1975300492890676 Acc: tensor(0.9342, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 373.5879647731781 seconds
+
+devLoss: 0.3845347252998454 Acc: tensor(0.8783, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 515.6585488319397 seconds
+
+*************************************************
+
+Epoch 12/19
+*************************************************
+trainLoss: 0.194329022137324 Acc: tensor(0.9353, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 374.050749540329 seconds
+
+devLoss: 0.25876488763212313 Acc: tensor(0.9230, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 514.9650354385376 seconds
+
+*************************************************
+
+Epoch 13/19
+*************************************************
+trainLoss: 0.18933988197962442 Acc: tensor(0.9367, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 372.63778257369995 seconds
+
+devLoss: 0.21037712265193267 Acc: tensor(0.9305, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 513.1728105545044 seconds
+
+*************************************************
+
+Epoch 14/19
+*************************************************
+trainLoss: 0.18666787903149923 Acc: tensor(0.9375, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 373.9084584712982 seconds
+
+devLoss: 0.17189164376555713 Acc: tensor(0.9406, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 516.2966332435608 seconds
+
+*************************************************
+
+Epoch 15/19
+*************************************************
+trainLoss: 0.18387616977532706 Acc: tensor(0.9379, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 374.2938332557678 seconds
+
+devLoss: 0.14581089037538653 Acc: tensor(0.9467, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 517.1771733760834 seconds
+
+*************************************************
+
+Epoch 16/19
+*************************************************
+trainLoss: 0.1840514689453443 Acc: tensor(0.9385, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 373.9343433380127 seconds
+
+devLoss: 0.18998365175769016 Acc: tensor(0.9361, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 515.3490467071533 seconds
+
+*************************************************
+
+Epoch 17/19
+*************************************************
+trainLoss: 0.18398202106316885 Acc: tensor(0.9384, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 372.83786392211914 seconds
+
+devLoss: 0.4556093080694118 Acc: tensor(0.8530, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 514.7298853397369 seconds
+
+*************************************************
+
+Epoch 18/19
+*************************************************
+trainLoss: 0.1787710064013799 Acc: tensor(0.9400, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 371.0846655368805 seconds
+
+devLoss: 0.5199114799637131 Acc: tensor(0.8391, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 512.3898618221283 seconds
+
+*************************************************
+
+Epoch 19/19
+*************************************************
+trainLoss: 0.17799723766009012 Acc: tensor(0.9401, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 373.779269695282 seconds
+
+devLoss: 0.27235289869223034 Acc: tensor(0.9117, device='cuda:0', dtype=torch.float64)
+Elapsed Time: 520.8387644290924 seconds
+
+*************************************************
+
+Training Completed in 10385.245094060898 seconds
+
+testLoss: 0.14754216280932902 Acc: tensor(0.9465, device='cuda:0', dtype=torch.float64)
+
