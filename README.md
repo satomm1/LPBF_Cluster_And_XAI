@@ -19,3 +19,7 @@ The 3D Scan Strategies is [publicly available](https://doi.org/10.18434/M32044).
 - **src/K_Means.ipynb**: Performs the multistep K-Means process and provides visualization of the process.
 - **src/MeltpoolShapePrediction.ipynb**: Generates proposed neural network architecture and deep learning training routine.
 - **src/LRP.ipynb**: Interprets the trained neural network with LRP and analyzes the results, produces visualization of the LRP results.
+
+## Contributors
+- [Matthew Sato](https://github.com/satomm1) 
+- [Stanford Engineering Informatics Group](http://eil.stanford.edu/)
