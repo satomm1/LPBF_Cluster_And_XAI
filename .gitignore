@@ -4,6 +4,7 @@
 /src/.idea/
 /src/*.pkl
 /src/process_parameters/by_layer
+/src/process_parameters/by_layer_small_RT
 /src/neural_network_data/*pp*
 !/src/LRP_results/*
 /src/silhouettes_1*
